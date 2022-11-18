@@ -1,0 +1,8 @@
+print("""====================CAFE====================""")
+print("""==========MASUKKAN JUMLAH PESANAN===========""")
+a=input("CAPPUCINO \t DISKON 50% \t Rp 25.000 \t :")
+b=input("VANILLA LATTE \t DISKON 65% \T Rp 22.000 \t :")
+c=input("AMERICANO \t DISKON 35% \t Rp 30.000 \t :")
+d=input("bREWED COFFEE \t DISKON 40% \t Rp 20.000 \t :")
+print()
+print("""===============TOTAL=============""")
